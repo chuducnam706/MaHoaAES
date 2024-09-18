@@ -1,2 +1,2 @@
 # MaHoaAES
-mã hóa tệp tin
+mã hóa tệp tin đuôi .txt
